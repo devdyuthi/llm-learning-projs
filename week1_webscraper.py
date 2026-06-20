@@ -1,5 +1,4 @@
 #Creates an art gallery scraper that gatehrs image urls for a database
-# imports
 # If these fail, please check you're running from an 'activated' environment with (llms) in the command prompt
 
 import os
